@@ -1,14 +1,22 @@
 <div align="center">
 
-<!-- ===================== PREMIUM HEADER ===================== -->
+<!-- ===================================================== -->
+<!--                    PREMIUM HEADER                     -->
+<!-- ===================================================== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=VISHNU%20V&fontSize=75&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20WEB%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=60&descSize=17&color=gradient"/>
 
 <br>
 
+<!-- ===================== PROFILE PHOTO ===================== -->
+
+<img src="./vishnu-profile.png" width="240" alt="Vishnu V"/>
+
+<br><br>
+
 <!-- ===================== TYPING ANIMATION ===================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Vishnu+V+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;React+Developer+%E2%9A%9B%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Real+World+Projects+%F0%9F%9A%80;Learn+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+Vishnu+V+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;React+Developer+%E2%9A%9B%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Real+World+Projects+%F0%9F%9A%80;Learn+%E2%80%A2+Build+%E2%80%A2+Deploy+%E2%80%A2+Repeat+%F0%9F%94%A5"/>
 
 <br><br>
 
@@ -66,7 +74,7 @@ learning new technologies by building projects.
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </td>
 
@@ -141,9 +149,9 @@ Real Projects
 
 <td width="33%" align="center">
 
-# 🌐
+## 🌐
 
-## Web Development
+### Web Development
 
 Building modern, responsive and user-friendly web applications.
 
@@ -151,9 +159,9 @@ Building modern, responsive and user-friendly web applications.
 
 <td width="33%" align="center">
 
-# 🤖
+## 🤖
 
-## AI & ML
+### AI & ML
 
 Exploring intelligent systems and AI-powered solutions.
 
@@ -161,9 +169,9 @@ Exploring intelligent systems and AI-powered solutions.
 
 <td width="33%" align="center">
 
-# 🛠️
+## 🛠️
 
-## Project Building
+### Project Building
 
 Turning ideas into practical real-world applications.
 
@@ -181,25 +189,25 @@ Turning ideas into practical real-world applications.
 
 <div align="center">
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
 
 <br><br>
 
-## ⚛️ Frameworks & Runtime
+### ⚛️ Frameworks & Runtime
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 
 <br><br>
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 <br><br>
 
-## 🔧 Tools & Platforms
+### 🔧 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
 
@@ -358,36 +366,27 @@ projects and development journey.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=1800&pause=600&color=7C3AED&center=true&vCenter=true&width=850&lines=Idea+%F0%9F%92%A1+%E2%86%92+Design+%F0%9F%8E%A8+%E2%86%92+Code+%F0%9F%92%BB;Code+%F0%9F%92%BB+%E2%86%92+Test+%F0%9F%A7%AA+%E2%86%92+Deploy+%F0%9F%9A%80;Deploy+%F0%9F%9A%80+%E2%86%92+Improve+%F0%9F%93%88+%E2%86%92+Repeat+%F0%9F%94%81"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=1800&pause=600&color=7C3AED&center=true&vCenter=true&width=850&height=50&lines=Idea+%F0%9F%92%A1+%E2%86%92+Design+%F0%9F%8E%A8+%E2%86%92+Code+%F0%9F%92%BB;Code+%F0%9F%92%BB+%E2%86%92+Test+%F0%9F%A7%AA+%E2%86%92+Deploy+%F0%9F%9A%80;Deploy+%F0%9F%9A%80+%E2%86%92+Improve+%F0%9F%93%88+%E2%86%92+Repeat+%F0%9F%94%81"/>
 
 <br><br>
 
 ```text
-       💡 IDEA
-          │
-          ▼
+        💡 IDEA
+           │
+           ▼
        🎨 DESIGN
-          │
-          ▼
-       💻 CODE
-          │
-          ▼
-       🧪 TEST
-          │
-          ▼
+           │
+           ▼
+        💻 CODE
+           │
+           ▼
+        🧪 TEST
+           │
+           ▼
        🚀 DEPLOY
-          │
-          ▼
+           │
+           ▼
        📈 IMPROVE
-          │
-          ▼
-       🔁 REPEAT
-<div align="center">
-
-<img src="./vishnu-profile.png" width="250" alt="Vishnu V"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I'm+Vishnu+V+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;React+Developer+%E2%9A%9B%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Real+World+Projects+%F0%9F%9A%80"/>
-
-</div>
+           │
+           ▼
+        🔁 REPEAT
