@@ -382,3 +382,12 @@ projects and development journey.
           │
           ▼
        🔁 REPEAT
+<div align="center">
+
+<img src="./vishnu-profile.png" width="250" alt="Vishnu V"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=7C3AED&center=true&vCenter=true&width=850&height=60&lines=Hi%2C+I'm+Vishnu+V+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;React+Developer+%E2%9A%9B%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Real+World+Projects+%F0%9F%9A%80"/>
+
+</div>
